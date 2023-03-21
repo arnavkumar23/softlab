@@ -1,0 +1,79 @@
+commit 7da6f551e10fc991ea39a7a43d5d11fec71fe29d
+Author: arnavkumar23 <arnavkumar971@gmail.com>
+Date:   Tue Mar 21 15:17:30 2023 +0530
+
+    deleting file2
+
+diff --git a/file1.txt b/file1.txt
+index 9d7f38c..33a0f26 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ Arnav kumar CSE
+ TGC
+ Movie
++Black
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index f01378c..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 dream job
+
+commit 7c8b725fe318b13259aa822ed3b9b532c04f48f5
+Author: arnavkumar23 <arnavkumar971@gmail.com>
+Date:   Tue Mar 21 15:14:31 2023 +0530
+
+    added file2
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..f01378c
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 dream job
+
+commit 66f4b5036041f865ab7210eff866fdfeb3f689c1
+Author: arnavkumar23 <arnavkumar971@gmail.com>
+Date:   Tue Mar 21 15:07:34 2023 +0530
+
+    added fav restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 09dd94b..9d7f38c 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+ Arnav kumar CSE
++TGC
++Movie
+
+commit 281b1a7dd503c015dcbcba2c2f654bf6b7b37120
+Author: arnavkumar23 <arnavkumar971@gmail.com>
+Date:   Tue Mar 21 15:05:52 2023 +0530
+
+    now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 6802361..09dd94b 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Arnav kumar 27379
++Arnav kumar CSE
+
+commit 9684645c125d0fddfea44656d1e63fb247276b73
+Author: arnavkumar23 <arnavkumar971@gmail.com>
+Date:   Tue Mar 21 15:00:05 2023 +0530
+
+    my data
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..6802361
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Arnav kumar 27379
